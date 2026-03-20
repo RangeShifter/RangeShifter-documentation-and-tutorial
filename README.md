@@ -9,3 +9,5 @@ In this repository you can find
 -   the documentation of the files (template spreadsheets) needed to run the batch mode ([v2.0](./Documentation/Batchmode_documentation_v2.0.zip) and [v3.0](./Documentation/Batchmode_documentation_v3.0.zip))
 
 -   the data needed to reproduce the tutorials described in the manual for [v2.0](./Documentation/Tutorial_data/Tutorials_v2.0) and [v3.0](./Documentation/Tutorial_data/Tutorials_v3.0)
+
+Please note that RangeShifter v3.0 will be released soon, but is currently not yet published.
