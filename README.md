@@ -10,4 +10,4 @@ In this repository you can find
 
 -   the data needed to reproduce the tutorials described in the manual for [v2.0](./Tutorial_data/Tutorials_v2.0) and [v3.0](./Tutorial_data/Tutorials_v3.0)
 
-Please note that RangeShifter v3.0 will be released soon, but is currently not yet published.
+
